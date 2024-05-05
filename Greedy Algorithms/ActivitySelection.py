@@ -29,7 +29,8 @@ if __name__ == '__main__':
         print(f"Activity {i + 1} ({s[i]},{f[i]})")
         
 
-       
+
+# Activity Selection w Sorting       
 '''
 def activitySelector(s, f):
     n = len(s)
